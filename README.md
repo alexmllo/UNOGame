@@ -1,1 +1,3 @@
 # UNOGame
+
+UNO game implemented in C from scratch, phase 1 only contains basic cards and phase 2 contains special cards, like +2, +4, reverse,...
